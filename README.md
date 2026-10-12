@@ -51,4 +51,4 @@ Created as a personal web-design practice project
 
 Thank you for visiting my webpage.
 
-**CREATED BY: **  *ABEERA MATEEN*
+**CREATED BY:**  *ABEERA MATEEN*
