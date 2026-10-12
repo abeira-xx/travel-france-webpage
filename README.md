@@ -5,7 +5,7 @@
 I have created this Travel Webpage to practice and improve my skills in HTML and CSS. The main purpose of this project, is to create an user-friendly page related to travel.
 This project focuses on presenting travel-related information of FRANCE through a clean layout, organized content, images, and a visually appealing design. It also helped me understand how different HTML elements and CSS properties work together to create a complete webpage.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 *HTML*
 - Used to create the structure of the webpage.
@@ -47,7 +47,8 @@ I am still learning web design step by step and I know I have a lot more to lear
 
 Created as a personal web-design practice project
 
-**LIVE DEMO LINK :**  
+**LIVE DEMO LINK :**  https://abeira-xx.github.io/travel-france-webpage/
 
+Thank you for visiting my webpage.
 
-*This project represents part of my learning journey in web development, with a focus on practicing foundational concepts, solving problems, and improving my ability to build webpages independently.*
+**CREATED BY: **  *ABEERA MATEEN*
